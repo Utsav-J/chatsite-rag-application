@@ -1,0 +1,5 @@
+langchain
+langhchain-core
+beautifulsoup4
+streamlit
+chromadb
